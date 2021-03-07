@@ -1,0 +1,11 @@
+{
+  "name": "teddybot",
+  "version": "0.0.1",
+  "description": "TeddyMod is a private bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "t!test"
+  },
+  "author": "undaunted#3464",
+  "license": "ISC"
+}
